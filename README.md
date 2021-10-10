@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @LetMeSl33p
-- 👀 I’m interested in anime
-- 🌱 I’m working on mastering python
-- 📫 How to reach me ... don't
+- 👋 Hi, I’m @LetMeSl33p.
+- 👀 I’m interested in anime.
+- 🌱 I’m still learning new languages.
+- 📫 How to reach me: it would be prefered if you didn't since I am still learning.
 
 <!---
 LetMeSl33p/LetMeSl33p is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
