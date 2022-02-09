@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LetMeSl33p.
-- 👀 I’m interested in anime.
+- 👀 I’m interested in learning.
 - 🌱 I’m still learning new languages.
 - 📫 How to reach me: it would be prefered if you didn't since I am still learning.
 
